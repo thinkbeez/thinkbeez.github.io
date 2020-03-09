@@ -1,0 +1,84 @@
+
+
+body {
+	background: url(../img/hex.jpg) no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+.header0 {
+	text-align: center;
+	margin: 50px 0 0 0;
+	font-family: 'Roboto', sans-serif;
+}
+.header1 {
+	text-align: center;
+	width: 100%;
+	height: 250px;
+	margin: 50px 0 0 0;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+.divider {
+	border: 1px solid rgba(178,178,178,0.5);
+	width: 80%;
+	position: relative;
+	left: 10%;
+}
+.divider:last-child {
+	margin-top: 70px;
+}
+
+.ck {
+	color: yellow;
+}
+
+.ck .p {
+	color: yellow;
+}
+
+.header1 a {
+	padding: 20px;
+	background: #47b4f0;
+	text-decoration: none;
+	border-radius: 10px;
+	position: relative;
+	top: 20px;
+	color: black;
+	font-family: 'Roboto', sans-serif;
+}
+.header1 a:hover {
+	color: white;
+}
+.header1 i {
+	margin-right: 4px;
+}
+
+.header2 {
+	width: 100%;
+	height: 150px;
+	font-style: italic;
+	font-size: 1.3em;
+	color: #d5d3ce;
+	margin-bottom: 60px;
+}
+
+.header4 {
+	color: yellow;	
+}
+.header2 img {
+	float: left;
+	margin-left: 150px;
+}
+.header2 p {
+	width: 600px;
+	margin-left: 300px;
+
+}
+.header2 p span {
+	margin-top: 20px;
+}
+.header2 p:last-child {
+	margin-left: 450px;
+}
+
