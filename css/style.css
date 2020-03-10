@@ -1,7 +1,7 @@
 
 
 body {
-	background: url(../img/hex.jpg) no-repeat;
+	background: url(../img/hex.jpg);
 	background-attachment: fixed;
     background-size: cover;
     overflow-x: hidden;
